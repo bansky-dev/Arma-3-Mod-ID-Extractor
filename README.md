@@ -15,3 +15,7 @@ file should be saved in the same folder as the HTML list of mods.
 This program is basically made when you want to install mods on your Arma 3 server beacuse many hostings like 4NetPlayers require from
 you to insert the ID's of mods. When you have more than 20 mods it's a little bit tricky and you can easliy wrong copy and paste every ID of mod.
 The purpose of this program is just to make installing mods on your server much easier and faster. If you using hosting like 4NetPlayers you know what I am talking about.
+
+# How to install the program?
+If you want to install program for your own use just download "id_extractor.exe"
+but if you want download source code you can download "id-extractor-source-code.rar"
