@@ -3,7 +3,7 @@ Arma 3 Mod ID Extractor is used for making a .txt file with all the ID's from mo
 
 This program is a free and open-source program. If there is any issues in using the program Please contact me via discord: mefedroniarz13 or Kociarz#2137
 
-License: GNU GPL v.3 
+License: GNU GPL v.3                      
 NOTE: Please do not copy and modify the program source code and post it like your's program (If you will credit me you can). Thanks!
 
 # How to use the program?
